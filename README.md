@@ -11,7 +11,7 @@ pkg install curl
 
 
 
-git clone https://github.com/Alamyazid/creatmail/tree/main
+git clone https://github.com/Alamyazid/creatmail
 
 
 cd createmail
